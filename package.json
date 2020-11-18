@@ -1,0 +1,23 @@
+{
+  "name": "http-params-transmit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkaiwd/http-params-transmit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkaiwd/http-params-transmit/issues"
+  },
+  "homepage": "https://github.com/wangkaiwd/http-params-transmit#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
